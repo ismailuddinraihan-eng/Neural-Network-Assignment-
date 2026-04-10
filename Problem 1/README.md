@@ -81,7 +81,7 @@ The model consists of:
 
 * ✅ Training Accuracy: ~90% (approx)
 * ✅ Validation Accuracy: ~85% (approx)
-* ✅ Test Accuracy: ~85–90% (depends on run)
+* ✅ Test Accuracy: ~87.82%
 
 The model successfully distinguishes between pneumonia and normal X-ray images.
 
